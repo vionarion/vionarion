@@ -48,6 +48,7 @@
 |---|---|
 | [docker-apps](https://github.com/vionarion/docker-apps) | My self-hosted apps on a VPS: Docker Compose behind Traefik with automatic HTTPS, healthchecks, memory limits, CI checks (compose validation + gitleaks secret scan) |
 | [go-projects](https://github.com/vionarion/go-projects) | Go: URL shortener on Fiber + Redis (expiry, per-IP rate limit, distroless image, Docker Compose), stdlib JSON API; tests and CI with race detector, image build and gitleaks |
+| [telegram-timer-bot](https://github.com/vionarion/telegram-timer-bot) | Telegram timer bot in Go: SQLite persistence (timers survive restarts), Prometheus metrics, healthchecks, graceful shutdown, distroless non-root read-only container, CI |
 | AI assistant platform *(private)* | Self-hosted Telegram assistant: voice commands, scheduled agents, nightly cloud backups, automatic rollback of broken releases via systemd |
 
 ### 🇷🇺 Коротко по-русски
