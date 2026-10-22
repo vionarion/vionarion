@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vyacheslav Komissarov 👋</h1>
+<h3 align="center">Senior DevOps Engineer · Kubernetes · CI/CD · Observability</h3>
 
-<!--
-**vionarion/vionarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://t.me/workkvd"><img src="https://img.shields.io/badge/Telegram-@workkvd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:v.komissarov@orangekvd.ru"><img src="https://img.shields.io/badge/Email-v.komissarov@orangekvd.ru-C56C21?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open_to-remote_work-2EA44F?style=for-the-badge" alt="Open to remote work">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About me
+
+- **6 years in DevOps**, from product teams to a major bank
+- Moved **40+ services to Kubernetes** (Deckhouse) and cut deploy time **from 40 to 7 minutes**
+- Highly available PostgreSQL with **Patroni**, secrets in **Vault**, monitoring and alerting that wakes the right person
+- Radio technician by education: I like it when software and hardware work together (**ESP32** projects)
+- Currently exploring **MLOps**: MLflow, Jupyter, model delivery pipelines
+
+### 🛠 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+</p>
+
+### 📂 Featured projects
+
+| Project | What it is |
+|---|---|
+| [fastapi-template-kvd](https://github.com/vionarion/fastapi-template-kvd) | Service template on FastAPI: Docker, Alembic migrations, pre-commit, tests with coverage |
+| [myPet](https://github.com/vionarion/myPet) | Go pet projects: URL shortener with Redis in Docker Compose, small web services |
+| AI assistant platform *(private)* | Self-hosted Telegram assistant: voice commands, scheduled agents, nightly cloud backups, automatic rollback of broken releases via systemd |
+
+### 🇷🇺 Коротко по-русски
+
+Senior DevOps-инженер, 6 лет опыта: Kubernetes, CI/CD, мониторинг, отказоустойчивые базы данных. Открыт к удалённой работе. Пишите в Telegram: [@workkvd](https://t.me/workkvd).
