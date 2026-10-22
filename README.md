@@ -47,7 +47,7 @@
 | Project | What it is |
 |---|---|
 | [docker-apps](https://github.com/vionarion/docker-apps) | My self-hosted apps on a VPS: Docker Compose behind Traefik with automatic HTTPS, healthchecks, memory limits, CI checks (compose validation + gitleaks secret scan) |
-| [myPet](https://github.com/vionarion/myPet) | Go pet projects: URL shortener with Redis in Docker Compose, small web services |
+| [myPet](https://github.com/vionarion/myPet) | Go practice: HTTP API on the standard library, CLI tool, URL shortener on Fiber + Redis (in progress) |
 | AI assistant platform *(private)* | Self-hosted Telegram assistant: voice commands, scheduled agents, nightly cloud backups, automatic rollback of broken releases via systemd |
 
 ### 🇷🇺 Коротко по-русски
