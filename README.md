@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://t.me/workkvd"><img src="https://img.shields.io/badge/Telegram-@workkvd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:v.komissarov@orangekvd.ru"><img src="https://img.shields.io/badge/Email-v.komissarov@orangekvd.ru-C56C21?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="mailto:vionarion@gmail.com"><img src="https://img.shields.io/badge/Email-vionarion@gmail.com-C56C21?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open_to-remote_work-2EA44F?style=for-the-badge" alt="Open to remote work">
 </p>
 
