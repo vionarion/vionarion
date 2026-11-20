@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vyacheslav Komissarov 👋</h1>
-<h3 align="center">Senior DevOps Engineer · Kubernetes · CI/CD · Observability</h3>
+<h3 align="center">DevOps / DevSecOps Engineer · Kubernetes · CI/CD · Observability</h3>
 
 <p align="center">
   <a href="https://t.me/workkvd"><img src="https://img.shields.io/badge/Telegram-@workkvd-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -13,9 +13,9 @@
 
 - **6 years in DevOps**, from product teams to a major bank
 - Moved **40+ services to Kubernetes** (Deckhouse) and cut deploy time **from 40 to 7 minutes**
-- Highly available PostgreSQL with **Patroni**, secrets in **Vault**, monitoring and alerting that wakes the right person
+- Highly available PostgreSQL with **Patroni**, secrets and access control with **Vault**, monitoring and alerting that wakes the right person
 - Radio technician by education: I like it when software and hardware work together (**ESP32** projects)
-- Currently exploring **MLOps**: MLflow, Jupyter, model delivery pipelines
+- Building **KAI** (kaiagent.ru): a Telegram AI-agent service. I run its infrastructure and security myself: backups, monitoring, rollback on failed releases
 
 ### 🛠 Tech stack
 
@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
 </p>
 
 ### 📂 Featured projects
